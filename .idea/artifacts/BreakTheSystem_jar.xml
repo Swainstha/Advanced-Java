@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BreakTheSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BreakTheSystem_jar</output-path>
+    <root id="archive" name="BreakTheSystem.jar">
+      <element id="module-output" name="BreakTheSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/login.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
